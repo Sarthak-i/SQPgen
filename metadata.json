@@ -1,0 +1,5 @@
+{
+  "name": "SQP Generator",
+  "description": "An AI-powered Sample Question Paper generator with automated MCQ grading and subjective marking schemes, featuring a minimal Notion-inspired design.",
+  "requestFramePermissions": []
+}
